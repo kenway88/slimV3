@@ -1,0 +1,14 @@
+{
+    "name": "kenway/slim_v3",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "^3.12"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}
